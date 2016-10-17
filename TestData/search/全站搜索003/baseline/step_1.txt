@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "category_id": "",
+    "name": "",
+    "shops": [
+      {
+        "activityInfos": [],
+        "products": [
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003d101963\u0026merid\u003d2",
+            "desc": "可口可乐600ml",
+            "icon": "",
+            "id": "101963",
+            "imgurl": "http://image.yonghuivip.com//product/101963/0.png?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 350
+            },
+            "sellerid": "2",
+            "shopId": "9D12",
+            "stock": {
+              "count": 4500
+            },
+            "title": "可口可乐600ml"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003d102498\u0026merid\u003d2",
+            "desc": "李锦记财神蚝油510g",
+            "icon": "",
+            "id": "102498",
+            "imgurl": "http://image.yonghuivip.com//product/102498/0.png?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 1380
+            },
+            "sellerid": "2",
+            "shopId": "9D12",
+            "stock": {
+              "count": 1100
+            },
+            "title": "李锦记财神蚝油510g"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003d10554\u0026merid\u003d2",
+            "desc": "蓝月亮衣领净优惠装500g*2",
+            "icon": "",
+            "id": "10554",
+            "imgurl": "http://image.yonghuivip.com//product/10554/0.png?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 3000
+            },
+            "sellerid": "2",
+            "shopId": "9D12",
+            "stock": {
+              "count": 1400
+            },
+            "title": "蓝月亮衣领净优惠装500g*2"
+          }
+        ],
+        "seller": "2",
+        "seller_display_category_id": "10000060",
+        "seller_image": "http://image.yonghuivip.com/hydlogo.png",
+        "seller_name": "永辉会员店-石泉路店",
+        "shopid": "9D12",
+        "totalCnt": 500
+      }
+    ]
+  },
+  "message": "",
+  "now": 1476669318344
+}

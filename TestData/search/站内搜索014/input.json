@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "异常测试，sellerid=2或为空、其他数字、符号等,storeid为空，返回500",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "GET",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbystore?words=&category_id&storeid=&sellerid=2&deliverytype=1&platform=ios",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

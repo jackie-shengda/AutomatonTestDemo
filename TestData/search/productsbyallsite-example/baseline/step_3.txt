@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "category_id": "",
+    "name": "牛奶",
+    "shops": [
+      {
+        "activityInfos": [],
+        "products": [
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003d793929\u0026merid\u003d2",
+            "desc": "寿尔牛奶1L",
+            "icon": "",
+            "id": "793929",
+            "imgurl": "http://image.yonghuivip.com//product/793929/0.png?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 2990
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 0
+            },
+            "title": "寿尔牛奶1L"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003d839412\u0026merid\u003d2",
+            "desc": "树上熟牛奶木瓜",
+            "icon": "",
+            "id": "839412",
+            "imgurl": "http://image.yonghuivip.com//product/839412/1467078005084dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 1700
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 0
+            },
+            "title": "树上熟牛奶木瓜"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003d748601\u0026merid\u003d2",
+            "desc": "寿尔高钙牛奶240ml",
+            "icon": "",
+            "id": "748601",
+            "imgurl": "http://image.yonghuivip.com//image/1461913677110dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 1740
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 0
+            },
+            "title": "寿尔高钙牛奶240ml"
+          }
+        ],
+        "seller": "2",
+        "seller_display_category_id": "0",
+        "seller_image": "http://image.yonghuivip.com/hydlogo.png",
+        "seller_name": "永辉会员店-田林路店",
+        "shopid": "9D13",
+        "totalCnt": 40
+      }
+    ]
+  },
+  "message": "",
+  "now": 1476095790565
+}

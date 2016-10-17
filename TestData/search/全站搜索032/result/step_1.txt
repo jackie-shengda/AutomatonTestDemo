@@ -1,0 +1,39 @@
+{
+  "code": 0,
+  "data": {
+    "category_id": "",
+    "name": "枇杷",
+    "shops": [
+      {
+        "activityInfos": [],
+        "products": [
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-835812\u0026merid\u003d1",
+            "desc": "圣华鸡琵琶腿1000g",
+            "icon": "",
+            "id": "M-835812",
+            "imgurl": "http://image.yonghuivip.com//image/1472634722367dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 3300
+            },
+            "sellerid": "1",
+            "shopId": "W049",
+            "stock": {
+              "count": 1400
+            },
+            "title": "圣华鸡琵琶腿1000g"
+          }
+        ],
+        "seller": "1",
+        "seller_display_category_id": "10000617",
+        "seller_image": "http://image.yonghuivip.com/nextdaylogo2.png",
+        "seller_name": "次日达商城-田林路店",
+        "shopid": "9D13",
+        "totalCnt": 1
+      }
+    ]
+  },
+  "message": "",
+  "now": 1476669337500
+}

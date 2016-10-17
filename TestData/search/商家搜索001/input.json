@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "正常搜索，上海田林路会员店，配送模式为当日达，返回nextDayDisplay=1",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "POST",
+			"url" : "http://api-qa.yonghuivip.com/api/search/combineProductsbyStore?platform=ios",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

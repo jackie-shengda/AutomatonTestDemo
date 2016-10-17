@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "category_id": "",
+    "name": "香蕉",
+    "shops": [
+      {
+        "activityInfos": [],
+        "products": [
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB2739\u0026merid\u003d1",
+            "desc": "金龙鱼饺子专用麦芯粉2KG",
+            "icon": "",
+            "id": "M-CB2739",
+            "imgurl": "http://image.yonghuivip.com//product/M-CB2739/1473753225062b74d057be08b2130c2dbda58fd8c945c838f6afb?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 3490
+            },
+            "sellerid": "1",
+            "shopId": "W049",
+            "stock": {
+              "count": 900
+            },
+            "title": "金龙鱼饺子专用麦芯粉2KG"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB2846\u0026merid\u003d1",
+            "desc": "金龙鱼饺子专用麦芯粉1KG*3",
+            "icon": "",
+            "id": "M-CB2846",
+            "imgurl": "http://image.yonghuivip.com//product/476105/1471931363575dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 4990
+            },
+            "sellerid": "1",
+            "shopId": "W049",
+            "stock": {
+              "count": 1800
+            },
+            "title": "金龙鱼饺子专用麦芯粉1KG*3"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB772\u0026merid\u003d1",
+            "desc": "进口香蕉一箱",
+            "icon": "",
+            "id": "M-CB772",
+            "imgurl": "http://image.yonghuivip.com//product/CB772/1469156661649dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 2900
+            },
+            "sellerid": "1",
+            "shopId": "W049",
+            "stock": {
+              "count": 99900
+            },
+            "title": "进口香蕉一箱"
+          }
+        ],
+        "seller": "1",
+        "seller_display_category_id": "10000642",
+        "seller_image": "http://image.yonghuivip.com/nextdaylogo2.png",
+        "seller_name": "次日达商城-田林路店",
+        "shopid": "9D13",
+        "totalCnt": 9
+      }
+    ]
+  },
+  "message": "",
+  "now": 1476669336896
+}

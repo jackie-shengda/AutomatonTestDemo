@@ -1,0 +1,198 @@
+{
+  "code": 0,
+  "data": {
+    "categoryId": "",
+    "categoryName": "香蕉",
+    "groups": [
+      {
+        "categoryName": "香蕉",
+        "sps": [
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB2739\u0026merid\u003d1",
+            "desc": "金龙鱼饺子专用麦芯粉2KG",
+            "icon": "",
+            "id": "M-CB2739",
+            "imgurl": "http://image.yonghuivip.com//product/M-CB2739/1473753225062b74d057be08b2130c2dbda58fd8c945c838f6afb?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "promotion",
+              "market": 3490,
+              "marketflag": "market",
+              "value": 3490
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 900,
+              "desc": ""
+            },
+            "title": "金龙鱼饺子专用麦芯粉2KG"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB2846\u0026merid\u003d1",
+            "desc": "金龙鱼饺子专用麦芯粉1KG*3",
+            "icon": "",
+            "id": "M-CB2846",
+            "imgurl": "http://image.yonghuivip.com//product/476105/1471931363575dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "promotion",
+              "market": 4990,
+              "marketflag": "market",
+              "value": 4990
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 1800,
+              "desc": ""
+            },
+            "title": "金龙鱼饺子专用麦芯粉1KG*3"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB772\u0026merid\u003d1",
+            "desc": "进口香蕉一箱",
+            "icon": "",
+            "id": "M-CB772",
+            "imgurl": "http://image.yonghuivip.com//product/CB772/1469156661649dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "promotion",
+              "market": 2900,
+              "marketflag": "market",
+              "value": 2900
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 99900,
+              "desc": ""
+            },
+            "title": "进口香蕉一箱"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-654226\u0026merid\u003d1",
+            "desc": "蒙牛奶特香蕉慕斯牛奶243ml*12",
+            "icon": "",
+            "id": "M-654226",
+            "imgurl": "http://image.yonghuivip.com//image/1467957292445dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 5880,
+              "marketflag": "market",
+              "value": 5880
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 1000,
+              "desc": ""
+            },
+            "title": "蒙牛奶特香蕉慕斯牛奶243ml*12"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-721102\u0026merid\u003d1",
+            "desc": "伊利味可滋香蕉牛奶240ml*12",
+            "icon": "",
+            "id": "M-721102",
+            "imgurl": "http://image.yonghuivip.com//image/1467957491118dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 6000,
+              "marketflag": "market",
+              "value": 6000
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 2000,
+              "desc": ""
+            },
+            "title": "伊利味可滋香蕉牛奶240ml*12"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB108\u0026merid\u003d1",
+            "desc": "名屋香蕉牛乳饮料340ml*24",
+            "icon": "",
+            "id": "M-CB108",
+            "imgurl": "http://image.yonghuivip.com//image/1460363185874dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "promotion",
+              "market": 15880,
+              "marketflag": "market",
+              "value": 15880
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 600,
+              "desc": ""
+            },
+            "title": "名屋香蕉牛乳饮料340ml*24"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB780\u0026merid\u003d1",
+            "desc": "名屋香蕉牛乳饮料340ml*6",
+            "icon": "",
+            "id": "M-CB780",
+            "imgurl": "http://image.yonghuivip.com//product/CB780/1469070392504dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "promotion",
+              "market": 3590,
+              "marketflag": "market",
+              "value": 3590
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 2600,
+              "desc": ""
+            },
+            "title": "名屋香蕉牛乳饮料340ml*6"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-874419\u0026merid\u003d1",
+            "desc": "大洋世家莫桑比克香蕉虾30/40 2kg",
+            "icon": "",
+            "id": "M-874419",
+            "imgurl": "http://image.yonghuivip.com//product/M-874419/1473817202026dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 36000,
+              "marketflag": "market",
+              "value": 36000
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 600,
+              "desc": ""
+            },
+            "title": "大洋世家莫桑比克香蕉虾30/40 2kg"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB1574\u0026merid\u003d1",
+            "desc": "麦可维香蕉牛奶蛋糕400g*9",
+            "icon": "",
+            "id": "M-CB1574",
+            "imgurl": "http://image.yonghuivip.com//image/1472553170783dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "promotion",
+              "market": 16880,
+              "marketflag": "market",
+              "value": 16880
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 200,
+              "desc": "仅剩2件"
+            },
+            "title": "麦可维香蕉牛奶蛋糕400g*9"
+          }
+        ]
+      }
+    ],
+    "sps": [],
+    "subcategorys": []
+  },
+  "message": "",
+  "now": 1476669356737
+}

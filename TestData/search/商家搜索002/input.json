@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "非正常搜索，上海田林路bravo店（实际无），返回商品列表默认为会员店商品，但是nextDayDisplay=0？",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "POST",
+			"url" : "http://api-qa.yonghuivip.com/api/search/combineProductsbyStore?platform=ios",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

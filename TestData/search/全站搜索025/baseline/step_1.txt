@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "category_id": "",
+    "name": "香蕉",
+    "shops": [
+      {
+        "activityInfos": [],
+        "products": [
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003d839392\u0026merid\u003d2",
+            "desc": "进口香蕉",
+            "icon": "",
+            "id": "839392",
+            "imgurl": "http://image.yonghuivip.com//product/839392/1459001997948717617227?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 550
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 900
+            },
+            "title": "进口香蕉"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003d846468\u0026merid\u003d2",
+            "desc": "香蕉奶昔面包",
+            "icon": "",
+            "id": "846468",
+            "imgurl": "http://image.yonghuivip.com//image/1462934651916dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 650
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 100
+            },
+            "title": "香蕉奶昔面包"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003d684163\u0026merid\u003d2",
+            "desc": "名屋香蕉牛乳味饮料500ml",
+            "icon": "",
+            "id": "684163",
+            "imgurl": "http://image.yonghuivip.com//product/684163/0.png?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 1150
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 0
+            },
+            "title": "名屋香蕉牛乳味饮料500ml"
+          }
+        ],
+        "seller": "2",
+        "seller_display_category_id": "10000045",
+        "seller_image": "http://image.yonghuivip.com/hydlogo.png",
+        "seller_name": "永辉会员店-田林路店",
+        "shopid": "9D13",
+        "totalCnt": 8
+      }
+    ]
+  },
+  "message": "",
+  "now": 1476669331951
+}

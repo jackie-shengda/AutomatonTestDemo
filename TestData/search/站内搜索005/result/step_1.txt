@@ -1,0 +1,198 @@
+{
+  "code": 0,
+  "data": {
+    "categoryId": "",
+    "categoryName": "巴黎",
+    "groups": [
+      {
+        "categoryName": "巴黎",
+        "sps": [
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-871838\u0026merid\u003d1",
+            "desc": "巴黎水原味750ml*12",
+            "icon": "",
+            "id": "M-871838",
+            "imgurl": "http://image.yonghuivip.com//image/1472456732854dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 22560,
+              "marketflag": "market",
+              "value": 22560
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 600,
+              "desc": ""
+            },
+            "title": "巴黎水原味750ml*12"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-877223\u0026merid\u003d1",
+            "desc": "原味巴黎水750ml*12",
+            "icon": "",
+            "id": "M-877223",
+            "imgurl": "http://image.yonghuivip.com//image/1472456732854dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 22560,
+              "marketflag": "market",
+              "value": 22560
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 8000,
+              "desc": ""
+            },
+            "title": "原味巴黎水750ml*12"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-871839\u0026merid\u003d1",
+            "desc": "巴黎含气天然矿泉水330ml*24",
+            "icon": "",
+            "id": "M-871839",
+            "imgurl": "http://image.yonghuivip.com//image/1472456779674dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 30000,
+              "marketflag": "market",
+              "value": 30000
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 500,
+              "desc": "仅剩5件"
+            },
+            "title": "巴黎含气天然矿泉水330ml*24"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-871837\u0026merid\u003d1",
+            "desc": "巴黎有气青柠味矿泉水330ml*24",
+            "icon": "",
+            "id": "M-871837",
+            "imgurl": "http://image.yonghuivip.com//image/1472456743727dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 30720,
+              "marketflag": "market",
+              "value": 30720
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 600,
+              "desc": ""
+            },
+            "title": "巴黎有气青柠味矿泉水330ml*24"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-871836\u0026merid\u003d1",
+            "desc": "巴黎有气柠檬味矿泉水330ml*24",
+            "icon": "",
+            "id": "M-871836",
+            "imgurl": "http://image.yonghuivip.com//image/1472456774454dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 30720,
+              "marketflag": "market",
+              "value": 30720
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 600,
+              "desc": ""
+            },
+            "title": "巴黎有气柠檬味矿泉水330ml*24"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-871835\u0026merid\u003d1",
+            "desc": "巴黎有气青柠味矿泉水750ml*12",
+            "icon": "",
+            "id": "M-871835",
+            "imgurl": "http://image.yonghuivip.com//image/1472456722577dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 23760,
+              "marketflag": "market",
+              "value": 23760
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 600,
+              "desc": ""
+            },
+            "title": "巴黎有气青柠味矿泉水750ml*12"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-871834\u0026merid\u003d1",
+            "desc": "巴黎有气柠檬味矿泉水750ml*12",
+            "icon": "",
+            "id": "M-871834",
+            "imgurl": "http://image.yonghuivip.com//image/1472456707241dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 23760,
+              "marketflag": "market",
+              "value": 23760
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 600,
+              "desc": ""
+            },
+            "title": "巴黎有气柠檬味矿泉水750ml*12"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB102\u0026merid\u003d1",
+            "desc": "巴黎天然有气柠檬味矿泉水330ml*6",
+            "icon": "",
+            "id": "M-CB102",
+            "imgurl": "http://image.yonghuivip.com//product/CB102/1469100329646dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "promotion",
+              "market": 6390,
+              "marketflag": "market",
+              "value": 6390
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 300,
+              "desc": "仅剩3件"
+            },
+            "title": "巴黎天然有气柠檬味矿泉水330ml*6"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB935\u0026merid\u003d1",
+            "desc": "巴黎天然有气柠檬味矿泉水330ml*12",
+            "icon": "",
+            "id": "M-CB935",
+            "imgurl": "http://image.yonghuivip.com//product/CB935/1469704349500dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "promotion",
+              "market": 15360,
+              "marketflag": "market",
+              "value": 15360
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 100,
+              "desc": "仅剩1件"
+            },
+            "title": "巴黎天然有气柠檬味矿泉水330ml*12"
+          }
+        ]
+      }
+    ],
+    "sps": [],
+    "subcategorys": []
+  },
+  "message": "",
+  "now": 1476669358234
+}

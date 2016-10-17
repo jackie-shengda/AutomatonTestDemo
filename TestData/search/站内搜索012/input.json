@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "异常测试，sellerid为空",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "GET",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbystore?storeid=9D13&sellerid=&words=&category_id&platform=ios",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

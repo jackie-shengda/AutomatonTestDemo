@@ -1,0 +1,45 @@
+{
+	"user" : "jackie",
+	"description" : "",
+	"steps" : [{
+			"step" : "3",
+			"description" : "",
+			"method" : "POST",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbyallsite?platform=ios&sellerid=1&storeid=9D13",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "0"
+		},
+		{
+			"step" : "1",
+			"description" : "",
+			"method" : "POST",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbyallsite?platform=ios&sellerid=1&storeid=9D13",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "0"
+		},
+		{
+			"step" : "2",
+			"description" : "",
+			"method" : "POST",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbyallsite?platform=ios&sellerid=1&storeid=9D13",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "0"
+		},
+		{
+			"step" : "5",
+			"description" : "",
+			"method" : "POST",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbyallsite?platform=ios&sellerid=1&storeid=9D13",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "0"
+		},
+		{
+			"step" : "4",
+			"description" : "",
+			"method" : "POST",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbyallsite?platform=ios&sellerid=1&storeid=9D13",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "0"
+		}
+	]
+}

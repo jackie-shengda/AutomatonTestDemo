@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "异常测试，deliverytype为空或者任意数字，符号，正常返回数据",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "GET",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbystore?words=&category_id&storeid=9D13&sellerid=2&deliverytype=%26LL啊&platform=ios&v=2.0.1",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

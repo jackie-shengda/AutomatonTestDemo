@@ -1,0 +1,12 @@
+{
+  "code": 0,
+  "data": {
+    "categoryId": "",
+    "categoryName": "龍",
+    "groups": [],
+    "sps": [],
+    "subcategorys": []
+  },
+  "message": "",
+  "now": 1476669358261
+}

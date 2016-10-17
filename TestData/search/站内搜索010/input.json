@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "异常测试，storeid为特殊字符，长字符串，返回了商品列表，但不清楚默认是哪家店？",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "GET",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbystore?storeid=sahdifs啥管理技巧灬*%26……》“”&sellerid=1&words=&category_id&platform=ios",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

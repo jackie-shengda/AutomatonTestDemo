@@ -1,0 +1,158 @@
+{
+  "code": 0,
+  "data": {
+    "categoryId": "",
+    "categoryName": "鸡蛋",
+    "groups": [
+      {
+        "categoryName": "鸡蛋",
+        "sps": [
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB755\u0026merid\u003d1",
+            "desc": "中裕鸡蛋挂面1000g*2",
+            "icon": "",
+            "id": "M-CB755",
+            "imgurl": "http://image.yonghuivip.com//product/CB755/1468329871209c2fc3cad45e4179e3f2d1a19f490a345374b199e?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "promotion",
+              "market": 2580,
+              "marketflag": "market",
+              "value": 2580
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 2600,
+              "desc": ""
+            },
+            "title": "中裕鸡蛋挂面1000g*2"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB1422\u0026merid\u003d1",
+            "desc": "波力鸡蛋卷216g*9",
+            "icon": "",
+            "id": "M-CB1422",
+            "imgurl": "http://image.yonghuivip.com//product/M-CB1422/1472195994706dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "promotion",
+              "market": 17800,
+              "marketflag": "market",
+              "value": 17800
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 100,
+              "desc": "仅剩1件"
+            },
+            "title": "波力鸡蛋卷216g*9"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-874373\u0026merid\u003d1",
+            "desc": "乐旺农家草鸡蛋一箱",
+            "icon": "",
+            "id": "M-874373",
+            "imgurl": "http://image.yonghuivip.com//product/M-874373/147264693572056fdf56004d100d12c490780d15071a3ee169ca4?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 7900,
+              "marketflag": "market",
+              "value": 7900
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 1300,
+              "desc": ""
+            },
+            "title": "乐旺农家草鸡蛋一箱"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-874371\u0026merid\u003d1",
+            "desc": "乐旺精选鲜鸡蛋一箱",
+            "icon": "",
+            "id": "M-874371",
+            "imgurl": "http://image.yonghuivip.com//product/M-874371/1472647001402dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 6900,
+              "marketflag": "market",
+              "value": 6900
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 99900,
+              "desc": ""
+            },
+            "title": "乐旺精选鲜鸡蛋一箱"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-874370\u0026merid\u003d1",
+            "desc": "乐旺农家草鸡蛋一箱",
+            "icon": "",
+            "id": "M-874370",
+            "imgurl": "http://image.yonghuivip.com//product/M-874370/1472646855069dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 4900,
+              "marketflag": "market",
+              "value": 4900
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 99900,
+              "desc": ""
+            },
+            "title": "乐旺农家草鸡蛋一箱"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-874367\u0026merid\u003d1",
+            "desc": "乐旺正宗野鸡蛋一箱",
+            "icon": "",
+            "id": "M-874367",
+            "imgurl": "http://image.yonghuivip.com//product/M-874367/1472647476788dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 5900,
+              "marketflag": "market",
+              "value": 5900
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 500,
+              "desc": "仅剩5件"
+            },
+            "title": "乐旺正宗野鸡蛋一箱"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-CB1625\u0026merid\u003d1",
+            "desc": "波力鸡蛋卷实惠包648g*8",
+            "icon": "",
+            "id": "M-CB1625",
+            "imgurl": "http://image.yonghuivip.com//image/1472553175873dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "promotion",
+              "market": 36680,
+              "marketflag": "market",
+              "value": 36680
+            },
+            "sellerid": "1",
+            "shopId": "9D13",
+            "stock": {
+              "count": 300,
+              "desc": "仅剩3件"
+            },
+            "title": "波力鸡蛋卷实惠包648g*8"
+          }
+        ]
+      }
+    ],
+    "sps": [],
+    "subcategorys": []
+  },
+  "message": "",
+  "now": 1476669358378
+}

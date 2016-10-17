@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "正常搜索，北京龙湖Bravo店，不支持次日达，所以返回nextDayDisplay全部为0",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "POST",
+			"url" : "http://api-qa.yonghuivip.com/api/search/combineProductsbyStore?platform=ios",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

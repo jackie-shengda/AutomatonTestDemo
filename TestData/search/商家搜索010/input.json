@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "非正常搜索，北京龙湖Bravo店，cityid=1，即上海，接口能正常返回？，返回nextDayDisplay=0？",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "POST",
+			"url" : "http://api-qa.yonghuivip.com/api/search/combineProductsbyStore?platform=ios",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

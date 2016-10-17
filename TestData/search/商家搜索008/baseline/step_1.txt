@@ -1,0 +1,1145 @@
+{
+  "code": 0,
+  "data": {
+    "todayDisplay": 1,
+    "nextDayDisplay": 0,
+    "deliverytype": 1,
+    "sellername": "Bravo",
+    "cityid": "2",
+    "storeid": "9391",
+    "classification": [
+      {
+        "categoryId": "10000030",
+        "categoryName": "新鲜水果",
+        "groups": [
+          {
+            "categoryId": "10000224",
+            "categoryName": "小果类",
+            "sps": [
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1740\u0026merid\u003d3",
+                "desc": "冬枣（约）500g/份",
+                "icon": "",
+                "id": "B-CB1740",
+                "imgurl": "http://image.yonghuivip.com//product/B-CB1740/147277913513622befc1a05480f8012fa6dab5b9468f8a825fa2e?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1180,
+                  "marketflag": "market",
+                  "value": 1180
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 64100,
+                  "desc": ""
+                },
+                "title": "冬枣（约）500g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1863\u0026merid\u003d3",
+                "desc": "红提（约）500g/份",
+                "icon": "",
+                "id": "B-CB1863",
+                "imgurl": "http://image.yonghuivip.com//image/1472093686759dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1080,
+                  "marketflag": "market",
+                  "value": 1080
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 3500,
+                  "desc": ""
+                },
+                "title": "红提（约）500g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1864\u0026merid\u003d3",
+                "desc": "小西红柿（约）500g/份",
+                "icon": "",
+                "id": "B-CB1864",
+                "imgurl": "http://image.yonghuivip.com//image/1472093764275dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 490,
+                  "marketflag": "market",
+                  "value": 490
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 21800,
+                  "desc": ""
+                },
+                "title": "小西红柿（约）500g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1778\u0026merid\u003d3",
+                "desc": "黄柠檬/个",
+                "icon": "",
+                "id": "B-CB1778",
+                "imgurl": "http://image.yonghuivip.com//product/839423/1466149771512dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 480,
+                  "marketflag": "market",
+                  "value": 480
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 55900,
+                  "desc": ""
+                },
+                "title": "黄柠檬/个"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1779\u0026merid\u003d3",
+                "desc": "本地红提500g/份",
+                "icon": "",
+                "id": "B-CB1779",
+                "imgurl": "http://image.yonghuivip.com//image/1472093753995dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 690,
+                  "marketflag": "market",
+                  "value": 690
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 91400,
+                  "desc": ""
+                },
+                "title": "本地红提500g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1877\u0026merid\u003d3",
+                "desc": "莲雾/个",
+                "icon": "",
+                "id": "B-CB1877",
+                "imgurl": "http://image.yonghuivip.com//image/1472093751406dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 580,
+                  "marketflag": "market",
+                  "value": 580
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 12000,
+                  "desc": ""
+                },
+                "title": "莲雾/个"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1880\u0026merid\u003d3",
+                "desc": "龙眼（约）900g/份",
+                "icon": "",
+                "id": "B-CB1880",
+                "imgurl": "http://image.yonghuivip.com//image/1472093800916dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1380,
+                  "marketflag": "market",
+                  "value": 1380
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 14800,
+                  "desc": ""
+                },
+                "title": "龙眼（约）900g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1883\u0026merid\u003d3",
+                "desc": "巨峰葡萄（约）500g/份",
+                "icon": "",
+                "id": "B-CB1883",
+                "imgurl": "http://image.yonghuivip.com//image/1472093769520dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 499,
+                  "marketflag": "market",
+                  "value": 499
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 70700,
+                  "desc": ""
+                },
+                "title": "巨峰葡萄（约）500g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1886\u0026merid\u003d3",
+                "desc": "玫瑰香葡萄（约）500g/份",
+                "icon": "",
+                "id": "B-CB1886",
+                "imgurl": "http://image.yonghuivip.com//image/1472093725366dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 690,
+                  "marketflag": "market",
+                  "value": 690
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 17100,
+                  "desc": ""
+                },
+                "title": "玫瑰香葡萄（约）500g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1790\u0026merid\u003d3",
+                "desc": "佳沛绿奇异果/个",
+                "icon": "",
+                "id": "B-CB1790",
+                "imgurl": "http://image.yonghuivip.com//product/844769/147151772955854dab83ef00062ca6d4cb85632e71fb7e0164359?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 450,
+                  "marketflag": "market",
+                  "value": 450
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 57800,
+                  "desc": ""
+                },
+                "title": "佳沛绿奇异果/个"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1888\u0026merid\u003d3",
+                "desc": "佳沛金奇异果/个",
+                "icon": "",
+                "id": "B-CB1888",
+                "imgurl": "http://image.yonghuivip.com//image/1455872835642774835252?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 690,
+                  "marketflag": "market",
+                  "value": 690
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 54500,
+                  "desc": ""
+                },
+                "title": "佳沛金奇异果/个"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1791\u0026merid\u003d3",
+                "desc": "无花果/个",
+                "icon": "",
+                "id": "B-CB1791",
+                "imgurl": "http://image.yonghuivip.com//image/1472093681525dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 780,
+                  "marketflag": "market",
+                  "value": 780
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 500,
+                  "desc": "仅剩5件"
+                },
+                "title": "无花果/个"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1889\u0026merid\u003d3",
+                "desc": "百香果/个",
+                "icon": "",
+                "id": "B-CB1889",
+                "imgurl": "http://image.yonghuivip.com//image/1472093697389dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1580,
+                  "marketflag": "market",
+                  "value": 1580
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 43300,
+                  "desc": ""
+                },
+                "title": "百香果/个"
+              }
+            ]
+          },
+          {
+            "categoryId": "10000239",
+            "categoryName": "桃子类",
+            "sps": [
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1783\u0026merid\u003d3",
+                "desc": "蟠桃（约）500g/份",
+                "icon": "",
+                "id": "B-CB1783",
+                "imgurl": "http://image.yonghuivip.com//image/1472093720219dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 780,
+                  "marketflag": "market",
+                  "value": 780
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 3200,
+                  "desc": ""
+                },
+                "title": "蟠桃（约）500g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1887\u0026merid\u003d3",
+                "desc": "平谷桃(约）1kg/份",
+                "icon": "",
+                "id": "B-CB1887",
+                "imgurl": "http://image.yonghuivip.com//image/1472093684212dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 890,
+                  "marketflag": "market",
+                  "value": 890
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 60900,
+                  "desc": ""
+                },
+                "title": "平谷桃(约）1kg/份"
+              }
+            ]
+          },
+          {
+            "categoryId": "10000225",
+            "categoryName": "苹果梨",
+            "sps": [
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1769\u0026merid\u003d3",
+                "desc": "套袋红富士苹果（约）900g/份",
+                "icon": "",
+                "id": "B-CB1769",
+                "imgurl": "http://image.yonghuivip.com//image/1458873218027308877425?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 880,
+                  "marketflag": "market",
+                  "value": 880
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 58700,
+                  "desc": ""
+                },
+                "title": "套袋红富士苹果（约）900g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1858\u0026merid\u003d3",
+                "desc": "新疆香梨（约）650g/份",
+                "icon": "",
+                "id": "B-CB1858",
+                "imgurl": "http://image.yonghuivip.com//image/1472093759081dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 690,
+                  "marketflag": "market",
+                  "value": 690
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 153600,
+                  "desc": ""
+                },
+                "title": "新疆香梨（约）650g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1771\u0026merid\u003d3",
+                "desc": "皇冠梨（约）1.2kg/份",
+                "icon": "",
+                "id": "B-CB1771",
+                "imgurl": "http://image.yonghuivip.com//image/1472093772098dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 790,
+                  "marketflag": "market",
+                  "value": 790
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 25000,
+                  "desc": ""
+                },
+                "title": "皇冠梨（约）1.2kg/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1878\u0026merid\u003d3",
+                "desc": "丰水梨（约）800g/份",
+                "icon": "",
+                "id": "B-CB1878",
+                "imgurl": "http://image.yonghuivip.com//image/1472093702631dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 590,
+                  "marketflag": "market",
+                  "value": 590
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 28300,
+                  "desc": ""
+                },
+                "title": "丰水梨（约）800g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1882\u0026merid\u003d3",
+                "desc": "雪花梨（约）1.5kg/份",
+                "icon": "",
+                "id": "B-CB1882",
+                "imgurl": "http://image.yonghuivip.com//image/1472093700014dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 980,
+                  "marketflag": "market",
+                  "value": 980
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 23600,
+                  "desc": ""
+                },
+                "title": "雪花梨（约）1.5kg/份"
+              }
+            ]
+          },
+          {
+            "categoryId": "10000238",
+            "categoryName": "香蕉类",
+            "sps": [
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1777\u0026merid\u003d3",
+                "desc": "香蕉（约）1.2kg/份",
+                "icon": "",
+                "id": "B-CB1777",
+                "imgurl": "http://image.yonghuivip.com//product/B-CB1777/1473669448636dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 680,
+                  "marketflag": "market",
+                  "value": 680
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 12500,
+                  "desc": ""
+                },
+                "title": "香蕉（约）1.2kg/份"
+              }
+            ]
+          },
+          {
+            "categoryId": "10000233",
+            "categoryName": "瓜果类",
+            "sps": [
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1859\u0026merid\u003d3",
+                "desc": "杨桃（约）600g/份",
+                "icon": "",
+                "id": "B-CB1859",
+                "imgurl": "http://image.yonghuivip.com//image/1472093803522dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1980,
+                  "marketflag": "market",
+                  "value": 1980
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 1300,
+                  "desc": ""
+                },
+                "title": "杨桃（约）600g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1770\u0026merid\u003d3",
+                "desc": "椰青/个",
+                "icon": "",
+                "id": "B-CB1770",
+                "imgurl": "http://image.yonghuivip.com//image/1472093808787dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1080,
+                  "marketflag": "market",
+                  "value": 1080
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 5900,
+                  "desc": ""
+                },
+                "title": "椰青/个"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1774\u0026merid\u003d3",
+                "desc": "哈密瓜（约）2kg/份",
+                "icon": "",
+                "id": "B-CB1774",
+                "imgurl": "http://image.yonghuivip.com//image/1472093824013dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1080,
+                  "marketflag": "market",
+                  "value": 1080
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 35300,
+                  "desc": ""
+                },
+                "title": "哈密瓜（约）2kg/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1867\u0026merid\u003d3",
+                "desc": "姬娜果（约）650g/份",
+                "icon": "",
+                "id": "B-CB1867",
+                "imgurl": "http://image.yonghuivip.com//image/1472093689339dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 790,
+                  "marketflag": "market",
+                  "value": 790
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 7800,
+                  "desc": ""
+                },
+                "title": "姬娜果（约）650g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1776\u0026merid\u003d3",
+                "desc": "火龙果（约）500g/份",
+                "icon": "",
+                "id": "B-CB1776",
+                "imgurl": "http://image.yonghuivip.com//image/1472093722774dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 690,
+                  "marketflag": "market",
+                  "value": 690
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 55700,
+                  "desc": ""
+                },
+                "title": "火龙果（约）500g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1869\u0026merid\u003d3",
+                "desc": "特小凤西瓜（约）2.8kg/份",
+                "icon": "",
+                "id": "B-CB1869",
+                "imgurl": "http://image.yonghuivip.com//image/1472093766900dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1480,
+                  "marketflag": "market",
+                  "value": 1480
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 5800,
+                  "desc": ""
+                },
+                "title": "特小凤西瓜（约）2.8kg/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1871\u0026merid\u003d3",
+                "desc": "榴莲（约）3.5kg/份",
+                "icon": "",
+                "id": "B-CB1871",
+                "imgurl": "http://image.yonghuivip.com//image/1472093780207dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 8990,
+                  "marketflag": "market",
+                  "value": 8990
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 9400,
+                  "desc": ""
+                },
+                "title": "榴莲（约）3.5kg/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1782\u0026merid\u003d3",
+                "desc": "红心火龙果（约）600g/份",
+                "icon": "",
+                "id": "B-CB1782",
+                "imgurl": "http://image.yonghuivip.com//product/839320/146736984606156fdf56004d100d12c490780d15071a3ee169ca4?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 980,
+                  "marketflag": "market",
+                  "value": 980
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 46100,
+                  "desc": ""
+                },
+                "title": "红心火龙果（约）600g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1873\u0026merid\u003d3",
+                "desc": "黄蜜瓜（约）1.5kg/份",
+                "icon": "",
+                "id": "B-CB1873",
+                "imgurl": "http://image.yonghuivip.com//image/1472093741138dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 880,
+                  "marketflag": "market",
+                  "value": 880
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 1600,
+                  "desc": ""
+                },
+                "title": "黄蜜瓜（约）1.5kg/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1874\u0026merid\u003d3",
+                "desc": "京欣西瓜（约）8kg/份",
+                "icon": "",
+                "id": "B-CB1874",
+                "imgurl": "http://image.yonghuivip.com//product/B-CB1874/1472548485976dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1590,
+                  "marketflag": "market",
+                  "value": 1590
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 2500,
+                  "desc": ""
+                },
+                "title": "京欣西瓜（约）8kg/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1784\u0026merid\u003d3",
+                "desc": "台湾凤梨（约）1.5kg/份",
+                "icon": "",
+                "id": "B-CB1784",
+                "imgurl": "http://image.yonghuivip.com//image/1455874635222774835252?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1590,
+                  "marketflag": "market",
+                  "value": 1590
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 2000,
+                  "desc": ""
+                },
+                "title": "台湾凤梨（约）1.5kg/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1786\u0026merid\u003d3",
+                "desc": "硒砂瓜（约）7kg/份",
+                "icon": "",
+                "id": "B-CB1786",
+                "imgurl": "http://image.yonghuivip.com//image/1472093816421dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 2980,
+                  "marketflag": "market",
+                  "value": 2980
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 6000,
+                  "desc": ""
+                },
+                "title": "硒砂瓜（约）7kg/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1789\u0026merid\u003d3",
+                "desc": "绿甜瓜（约）1.3kg/份",
+                "icon": "",
+                "id": "B-CB1789",
+                "imgurl": "http://image.yonghuivip.com//image/1472093756563dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1280,
+                  "marketflag": "market",
+                  "value": 1280
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 43000,
+                  "desc": ""
+                },
+                "title": "绿甜瓜（约）1.3kg/份"
+              }
+            ]
+          },
+          {
+            "categoryId": "10000226",
+            "categoryName": "桔柚类",
+            "sps": [
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1781\u0026merid\u003d3",
+                "desc": "澳柑（约）800g/份",
+                "icon": "",
+                "id": "B-CB1781",
+                "imgurl": "http://image.yonghuivip.com//image/1472093717556dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1980,
+                  "marketflag": "market",
+                  "value": 1980
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 31800,
+                  "desc": ""
+                },
+                "title": "澳柑（约）800g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1881\u0026merid\u003d3",
+                "desc": "红西柚（约）750g/份",
+                "icon": "",
+                "id": "B-CB1881",
+                "imgurl": "http://image.yonghuivip.com//image/1458873340761308877425?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1280,
+                  "marketflag": "market",
+                  "value": 1280
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 3400,
+                  "desc": ""
+                },
+                "title": "红西柚（约）750g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB2519\u0026merid\u003d3",
+                "desc": "蜜桔（约）500g/份",
+                "icon": "",
+                "id": "B-CB2519",
+                "imgurl": "http://image.yonghuivip.com//product/B-CB2519/1472777202115dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 590,
+                  "marketflag": "market",
+                  "value": 590
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 47100,
+                  "desc": ""
+                },
+                "title": "蜜桔（约）500g/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB2630\u0026merid\u003d3",
+                "desc": "红心柚（约）2±0.2kg/份",
+                "icon": "",
+                "id": "B-CB2630",
+                "imgurl": "http://image.yonghuivip.com//product/B-CB2630/1472721697697dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 2590,
+                  "marketflag": "market",
+                  "value": 2590
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 12300,
+                  "desc": ""
+                },
+                "title": "红心柚（约）2±0.2kg/份"
+              },
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB2536\u0026merid\u003d3",
+                "desc": "柚子（约）2±0.2kg/份",
+                "icon": "",
+                "id": "B-CB2536",
+                "imgurl": "http://image.yonghuivip.com//product/B-CB2536/1472722186079dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1180,
+                  "marketflag": "market",
+                  "value": 1180
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 31100,
+                  "desc": ""
+                },
+                "title": "柚子（约）2±0.2kg/份"
+              }
+            ]
+          },
+          {
+            "categoryId": "10000237",
+            "categoryName": "芒果类",
+            "sps": [
+              {
+                "action": "myyh://yhlife.com/goods/detail?cid\u003dB-CB1785\u0026merid\u003d3",
+                "desc": "苹果芒（约）600g/份",
+                "icon": "",
+                "id": "B-CB1785",
+                "imgurl": "http://image.yonghuivip.com//image/1472093795832dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+                "price": {
+                  "flag": "promotion",
+                  "market": 1280,
+                  "marketflag": "market",
+                  "value": 1280
+                },
+                "sellerid": "3",
+                "shopId": "9391",
+                "stock": {
+                  "count": 14700,
+                  "desc": ""
+                },
+                "title": "苹果芒（约）600g/份"
+              }
+            ]
+          }
+        ],
+        "imgurl": "/category/1.jpg",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000224",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000225",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000226",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000233",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000237",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000238",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000239",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000031",
+        "categoryName": "时令鲜蔬",
+        "groups": [],
+        "imgurl": "/category/2.jpg",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000219",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000220",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000221",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000223",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000032",
+        "categoryName": "大肉家禽",
+        "groups": [],
+        "imgurl": "/category/3.jpg",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000227",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000235",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000124",
+        "categoryName": "海鲜荟萃",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000228",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000229",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000037",
+        "categoryName": "蛋品杂粮",
+        "groups": [],
+        "imgurl": "/category/5.jpg",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000231",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000234",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000236",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000034",
+        "categoryName": "日配冷藏",
+        "groups": [],
+        "imgurl": "/category/6.jpg",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000127",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000128",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000129",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000126",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000033",
+        "categoryName": "酒水饮料",
+        "groups": [],
+        "imgurl": "/category/7.jpg",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000130",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000131",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000132",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000133",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000134",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000135",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000035",
+        "categoryName": "休闲食品",
+        "groups": [],
+        "imgurl": "/category/4.jpg",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000136",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000137",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000138",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000036",
+        "categoryName": "粮油调味",
+        "groups": [],
+        "imgurl": "/category/8.jpg",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000139",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000140",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000141",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000142",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000143",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000039",
+        "categoryName": "日用百货",
+        "groups": [],
+        "imgurl": "/category/9.jpg",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000144",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000145",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000146",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000147",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000148",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000149",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000038",
+        "categoryName": "清洁美妆",
+        "groups": [],
+        "imgurl": "/category/10.jpg",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000150",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000151",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000152",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000153",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000154",
+            "subcategorys": []
+          }
+        ]
+      }
+    ]
+  },
+  "message": "",
+  "now": 1476669345272
+}

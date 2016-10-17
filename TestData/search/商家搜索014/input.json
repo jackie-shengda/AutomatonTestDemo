@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "异常测试，lat特殊字符，长字符串",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "POST",
+			"url" : "http://api-qa.yonghuivip.com/api/search/combineProductsbyStore?platform=ios",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

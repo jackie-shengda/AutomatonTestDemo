@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "会员店搜索“古筝”",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "POST",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbyallsite?platform=ios",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "异常测试，storeid为数据库里没有的字段时，这时候sellerid为非“1”的数字时，接口返回500！？",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "GET",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbystore?storeid=9D13123&sellerid=2&words=&category_id&platform=ios",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

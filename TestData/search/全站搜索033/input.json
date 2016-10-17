@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "次日达商城搜索“牛奶”",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "POST",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbyallsite?platform=ios",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

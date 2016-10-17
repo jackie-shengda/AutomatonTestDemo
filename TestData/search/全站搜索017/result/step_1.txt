@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "data": {
+    "category_id": "",
+    "name": "",
+    "shops": []
+  },
+  "message": "",
+  "now": 1476669327077
+}

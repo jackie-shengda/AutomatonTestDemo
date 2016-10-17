@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "正常场景，上海田林路店，搜索“香蕉”",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "GET",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbystore?storeid=9D13&sellerid=1&words=香蕉&category_id&platform=ios",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

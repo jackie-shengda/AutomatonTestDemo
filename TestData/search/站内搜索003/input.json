@@ -1,0 +1,13 @@
+{
+	"user" : "jackie",
+	"description" : "正常场景，上海政本路店",
+	"steps" : [{
+			"step" : "1",
+			"description" : "",
+			"method" : "GET",
+			"url" : "http://api-qa.yonghuivip.com/api/search/productsbystore?storeid=9D03&sellerid=1&words=&category_id&platform=ios",
+			"parameterFilename" : "step_1_parameter",
+			"isCheckResult" : "1"
+		}
+	]
+}

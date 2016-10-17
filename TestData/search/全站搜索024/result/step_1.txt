@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "category_id": "",
+    "name": "",
+    "shops": [
+      {
+        "activityInfos": [],
+        "products": [
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003d795492\u0026merid\u003d2",
+            "desc": "喜璐覆盆子果酱（树莓果酱）340g",
+            "icon": "",
+            "id": "795492",
+            "imgurl": "http://image.yonghuivip.com//image/1456502147046831735335?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 3350
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 700
+            },
+            "title": "喜璐覆盆子果酱（树莓果酱）340g"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003d795490\u0026merid\u003d2",
+            "desc": "喜璐森林水果果酱(多种浆果）340g",
+            "icon": "",
+            "id": "795490",
+            "imgurl": "http://image.yonghuivip.com//image/1456845697341458929068?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 3350
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 0
+            },
+            "title": "喜璐森林水果果酱(多种浆果）340g"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003d795494\u0026merid\u003d2",
+            "desc": "黛乐字母意大利面250g",
+            "icon": "",
+            "id": "795494",
+            "imgurl": "http://image.yonghuivip.com//product/795494/0.png?imageMogr2/thumbnail/120x/",
+            "price": {
+              "market": 0,
+              "value": 2680
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 2700
+            },
+            "title": "黛乐字母意大利面250g"
+          }
+        ],
+        "seller": "11",
+        "seller_display_category_id": "10000069",
+        "seller_image": "http://image.yonghuivip.com/hydlogo.png",
+        "seller_name": "永辉会员店-田林路店",
+        "shopid": "9D13",
+        "totalCnt": 500
+      }
+    ]
+  },
+  "message": "",
+  "now": 1476669334164
+}

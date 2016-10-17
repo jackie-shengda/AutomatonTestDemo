@@ -1,0 +1,837 @@
+{
+  "code": 0,
+  "data": {
+    "todayDisplay": 1,
+    "nextDayDisplay": 1,
+    "deliverytype": 2,
+    "sellername": "永辉会员店",
+    "cityid": "1",
+    "storeid": "9D13",
+    "classification": [
+      {
+        "categoryId": "好品推荐",
+        "categoryName": "好品推荐",
+        "groups": [],
+        "sps": [
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-236448\u0026merid\u003d2",
+            "desc": "蒙牛特仑苏有机奶250ml*12",
+            "icon": "",
+            "id": "M-236448",
+            "imgurl": "http://image.yonghuivip.com//image/1467180461904dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 7600,
+              "marketflag": "market",
+              "value": 7600
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 1600,
+              "desc": ""
+            },
+            "title": "蒙牛特仑苏有机奶250ml*12"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-320203\u0026merid\u003d2",
+            "desc": "金龙鱼植物甾醇玉米油5L",
+            "icon": "",
+            "id": "M-320203",
+            "imgurl": "http://image.yonghuivip.com//image/1467266297915dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 8590,
+              "marketflag": "market",
+              "value": 8590
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 2500,
+              "desc": ""
+            },
+            "title": "金龙鱼植物甾醇玉米油5L"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-353534\u0026merid\u003d2",
+            "desc": "金龙鱼油茶籽油1.6L",
+            "icon": "",
+            "id": "M-353534",
+            "imgurl": "http://image.yonghuivip.com//product/353534/0.png?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 15500,
+              "marketflag": "market",
+              "value": 15500
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 2700,
+              "desc": ""
+            },
+            "title": "金龙鱼油茶籽油1.6L"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-451503\u0026merid\u003d2",
+            "desc": "伊利谷粒多红谷牛奶饮品250ml*12",
+            "icon": "",
+            "id": "M-451503",
+            "imgurl": "http://image.yonghuivip.com//image/1467355297947dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 3600,
+              "marketflag": "market",
+              "value": 3600
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 1500,
+              "desc": ""
+            },
+            "title": "伊利谷粒多红谷牛奶饮品250ml*12"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-658039\u0026merid\u003d2",
+            "desc": "维达超韧抽取纸面巾130抽*6/V2239",
+            "icon": "",
+            "id": "M-658039",
+            "imgurl": "http://image.yonghuivip.com//product/658039/0.png?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 2180,
+              "marketflag": "market",
+              "value": 2180
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 1700,
+              "desc": ""
+            },
+            "title": "维达超韧抽取纸面巾130抽*6/V2239"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-698005\u0026merid\u003d2",
+            "desc": "王老吉凉茶植物蛋白饮料310ml*6",
+            "icon": "",
+            "id": "M-698005",
+            "imgurl": "http://image.yonghuivip.com//image/1467355403067dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 2350,
+              "marketflag": "market",
+              "value": 2350
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 3000,
+              "desc": ""
+            },
+            "title": "王老吉凉茶植物蛋白饮料310ml*6"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-871797\u0026merid\u003d2",
+            "desc": "澳洲草饲牛仔骨1kg",
+            "icon": "",
+            "id": "M-871797",
+            "imgurl": "http://image.yonghuivip.com//image/1472551560589dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 13900,
+              "marketflag": "market",
+              "value": 13900
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 3800,
+              "desc": ""
+            },
+            "title": "澳洲草饲牛仔骨1kg"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-871810\u0026merid\u003d2",
+            "desc": "加拿大AAA级板腱牛排1kg",
+            "icon": "",
+            "id": "M-871810",
+            "imgurl": "http://image.yonghuivip.com//image/1472551608885dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 15900,
+              "marketflag": "market",
+              "value": 15900
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 3900,
+              "desc": ""
+            },
+            "title": "加拿大AAA级板腱牛排1kg"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-871811\u0026merid\u003d2",
+            "desc": "加拿大AAA级上脑粒1kg",
+            "icon": "",
+            "id": "M-871811",
+            "imgurl": "http://image.yonghuivip.com//image/1472551602989dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 12900,
+              "marketflag": "market",
+              "value": 12900
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 3800,
+              "desc": ""
+            },
+            "title": "加拿大AAA级上脑粒1kg"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-874401\u0026merid\u003d2",
+            "desc": "大洋世家扇贝柱500g",
+            "icon": "",
+            "id": "M-874401",
+            "imgurl": "http://image.yonghuivip.com//product/M-874401/1473129525679dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 6800,
+              "marketflag": "market",
+              "value": 6800
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 3500,
+              "desc": ""
+            },
+            "title": "大洋世家扇贝柱500g"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-833207\u0026merid\u003d2",
+            "desc": "统一ALKAQUA天然矿泉水570ml*15",
+            "icon": "",
+            "id": "M-833207",
+            "imgurl": "http://image.yonghuivip.com//image/1473152684339dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 5800,
+              "marketflag": "market",
+              "value": 5800
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 4000,
+              "desc": ""
+            },
+            "title": "统一ALKAQUA天然矿泉水570ml*15"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-576070\u0026merid\u003d2",
+            "desc": "统一冰糖雪梨饮料500ml*15",
+            "icon": "",
+            "id": "M-576070",
+            "imgurl": "http://image.yonghuivip.com//image/1473152676972dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 4100,
+              "marketflag": "market",
+              "value": 4100
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 4700,
+              "desc": ""
+            },
+            "title": "统一冰糖雪梨饮料500ml*15"
+          },
+          {
+            "action": "myyh://yhlife.com/goods/detail?cid\u003dM-833208\u0026merid\u003d2",
+            "desc": "统一小茗同学青柠红茶480ml*15",
+            "icon": "",
+            "id": "M-833208",
+            "imgurl": "http://image.yonghuivip.com//image/1473156117276dfaaeed694eae97c85b434d102c0fe199eb9c461?imageMogr2/thumbnail/120x/",
+            "price": {
+              "flag": "market",
+              "market": 7500,
+              "marketflag": "market",
+              "value": 7500
+            },
+            "sellerid": "2",
+            "shopId": "9D13",
+            "stock": {
+              "count": 4000,
+              "desc": ""
+            },
+            "title": "统一小茗同学青柠红茶480ml*15"
+          }
+        ],
+        "subcategorys": []
+      },
+      {
+        "categoryId": "10000731",
+        "categoryName": "礼品卡券",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000733",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000732",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000564",
+        "categoryName": "优选水果",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000594",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000596",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000597",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000599",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000600",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000601",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000720",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000565",
+        "categoryName": "时令鲜蔬",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000602",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000603",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000606",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000566",
+        "categoryName": "海鲜水产",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000607",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000608",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000609",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000610",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000611",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000567",
+        "categoryName": "牛羊猪肉",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000613",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000614",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000616",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000568",
+        "categoryName": "鸡鸭禽蛋",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000617",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000618",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000619",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000569",
+        "categoryName": "酒水",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000622",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000623",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000624",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000625",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000626",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000627",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000570",
+        "categoryName": "饮料",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000628",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000629",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000630",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000631",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000632",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000633",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000634",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000571",
+        "categoryName": "乳品",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000635",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000636",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000572",
+        "categoryName": "冲饮",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000637",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000638",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000640",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000641",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000573",
+        "categoryName": "米面杂粮",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000642",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000643",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000644",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000574",
+        "categoryName": "食用油",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000648",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000649",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000650",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000575",
+        "categoryName": "方便食品",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000652",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000576",
+        "categoryName": "调味",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000653",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000655",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000577",
+        "categoryName": "干货",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000658",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000578",
+        "categoryName": "巧克力",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000660",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000661",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000579",
+        "categoryName": "果冻",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000663",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000664",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000580",
+        "categoryName": "糕饼",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000665",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000666",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000667",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000581",
+        "categoryName": "糖果",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000668",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000669",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000670",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000582",
+        "categoryName": "休闲小食",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000671",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000672",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000673",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000674",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000675",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000583",
+        "categoryName": "个人护理",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000676",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000677",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000678",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000679",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000586",
+        "categoryName": "家用清洁",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000686",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000689",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000588",
+        "categoryName": "小家电",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000696",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000590",
+        "categoryName": "冷藏食品",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000702",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000591",
+        "categoryName": "冷冻食品",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000705",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000706",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000707",
+            "subcategorys": []
+          },
+          {
+            "categoryId": "10000711",
+            "subcategorys": []
+          }
+        ]
+      },
+      {
+        "categoryId": "10000592",
+        "categoryName": "烘焙食品",
+        "groups": [],
+        "imgurl": "",
+        "sps": [],
+        "subcategorys": [
+          {
+            "categoryId": "10000715",
+            "subcategorys": []
+          }
+        ]
+      }
+    ]
+  },
+  "message": "",
+  "now": 1476669352449
+}

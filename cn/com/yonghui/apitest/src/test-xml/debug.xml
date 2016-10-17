@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="debug">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        <!--<listener class-name="common.Report"/>-->
+    </listeners>
+    <parameter name="ModuleName" value="search"/>
+    <test name="站内搜索001" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索001"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索002" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索002"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索003" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索003"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索004" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索004"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索005" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索005"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索006" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索006"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索007" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索007"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索008" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索008"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索009" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索009"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索010" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索010"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索011" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索011"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索012" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索012"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索013" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索013"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索014" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索014"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+    <test name="站内搜索015" junit="false" annotations="JDK">
+        <parameter name="testName" value="站内搜索015"/>
+        <classes>
+            <class name="test.restAPITest"/>
+        </classes>
+    </test>
+</suite>

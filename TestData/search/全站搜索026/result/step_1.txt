@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "data": {
+    "category_id": "",
+    "name": "枇杷",
+    "shops": []
+  },
+  "message": "",
+  "now": 1476669333988
+}
