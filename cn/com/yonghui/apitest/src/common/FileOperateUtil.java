@@ -251,7 +251,26 @@ public class FileOperateUtil {
 		}
 	}
 
+	public static void createSQL(String source, String target) throws Exception{
+		File file = new File(target);
+		if(!file.exists()){
+			file.createNewFile();
+		}
+		BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(source)));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(target,true)));
+		String line = br.readLine();
+		while(line!=null){
+			if(line.startsWith("INSERT INTO `t_suggest_sku`") && line.contains("VALUES ('9109',")){
+				bw.write(line+"\r\n");
+			}
+			line = br.readLine();
+		}
+		bw.flush();
+		bw.close();
+	}
+
 	public static void main(String args[]) throws Exception{
-		createTests("D:\\workspace\\YH-API-Test\\cn\\com\\yonghui\\apitest\\src\\test-xml\\debug.xml","C:\\Users\\admin\\Desktop\\case.txt","restAPITest");
+//		createTests("D:\\workspace\\YH-API-Test\\cn\\com\\yonghui\\apitest\\src\\test-xml\\debug.xml","C:\\Users\\admin\\Desktop\\case.txt","restAPITest");
+		createSQL("C:\\Users\\wing324\\Desktop\\工作相关\\北京到店数据.sql","C:\\Users\\wing324\\Desktop\\工作相关\\北京到店数据new.sql");
 	}
 }
