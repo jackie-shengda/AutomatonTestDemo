@@ -138,7 +138,9 @@ public class restAPITest {
             fw.close();
 
             //rebase
-            FileOperateUtil.copyFile(resultPath,basePath,true);
+            if(GlobalSettings.isRebase.equals("true")){
+                FileOperateUtil.copyFile(resultPath,basePath,true);
+            }
 
 //            String expectValue = new String(Files.readAllBytes(Paths.get(basePath)), StandardCharsets.UTF_8);
 //            String actualValue = new String(Files.readAllBytes(Paths.get(resultPath)), StandardCharsets.UTF_8);

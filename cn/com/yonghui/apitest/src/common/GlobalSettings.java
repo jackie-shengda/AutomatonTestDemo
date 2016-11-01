@@ -28,6 +28,9 @@ public class GlobalSettings {
     //测试环境，develop、release、prelaunch、master等等
     public static String testEnv = prop.getProperty("testEnv","api-qa.yonghuivip.com");
 
+    //rebase开关，为true时rebase
+    public static String isRebase = prop.getProperty("isRebase","false");
+
     //登录令牌，动态刷新用
     public static String access_token = prop.getProperty("access_token","601933");
 

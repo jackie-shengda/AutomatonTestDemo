@@ -66,7 +66,7 @@
             <class name="test.restAPITest"/>
         </classes>
     </test>
-    <test name="全站搜索011" junit="false" annotations="JDK">
+  <!--  <test name="全站搜索011" junit="false" annotations="JDK">
         <parameter name="testName" value="全站搜索011"/>
         <classes>
             <class name="test.restAPITest"/>
@@ -89,7 +89,7 @@
         <classes>
             <class name="test.restAPITest"/>
         </classes>
-    </test>
+    </test>-->
     <test name="全站搜索015" junit="false" annotations="JDK">
         <parameter name="testName" value="全站搜索015"/>
         <classes>
@@ -270,7 +270,7 @@
             <class name="test.restAPITest"/>
         </classes>
     </test>
-    <test name="商家搜索011" junit="false" annotations="JDK">
+    <!--<test name="商家搜索011" junit="false" annotations="JDK">
         <parameter name="testName" value="商家搜索011"/>
         <classes>
             <class name="test.restAPITest"/>
@@ -293,14 +293,14 @@
         <classes>
             <class name="test.restAPITest"/>
         </classes>
-    </test>
+    </test>-->
     <test name="商家搜索015" junit="false" annotations="JDK">
         <parameter name="testName" value="商家搜索015"/>
         <classes>
             <class name="test.restAPITest"/>
         </classes>
     </test>
-    <test name="商家搜索016" junit="false" annotations="JDK">
+   <!-- <test name="商家搜索016" junit="false" annotations="JDK">
         <parameter name="testName" value="商家搜索016"/>
         <classes>
             <class name="test.restAPITest"/>
@@ -317,7 +317,7 @@
         <classes>
             <class name="test.restAPITest"/>
         </classes>
-    </test>
+    </test>-->
     <test name="商家搜索019" junit="false" annotations="JDK">
         <parameter name="testName" value="商家搜索019"/>
         <classes>
@@ -330,7 +330,7 @@
             <class name="test.restAPITest"/>
         </classes>
     </test>
-    <test name="商家搜索021" junit="false" annotations="JDK">
+    <!--<test name="商家搜索021" junit="false" annotations="JDK">
         <parameter name="testName" value="商家搜索021"/>
         <classes>
             <class name="test.restAPITest"/>
@@ -341,7 +341,7 @@
         <classes>
             <class name="test.restAPITest"/>
         </classes>
-    </test>
+    </test>-->
     <test name="商家搜索023" junit="false" annotations="JDK">
         <parameter name="testName" value="商家搜索023"/>
         <classes>
@@ -408,12 +408,12 @@
             <class name="test.restAPITest"/>
         </classes>
     </test>
-    <test name="站内搜索011" junit="false" annotations="JDK">
+   <!-- <test name="站内搜索011" junit="false" annotations="JDK">
         <parameter name="testName" value="站内搜索011"/>
         <classes>
             <class name="test.restAPITest"/>
         </classes>
-    </test>
+    </test>-->
     <test name="站内搜索012" junit="false" annotations="JDK">
         <parameter name="testName" value="站内搜索012"/>
         <classes>
@@ -426,12 +426,12 @@
             <class name="test.restAPITest"/>
         </classes>
     </test>
-    <test name="站内搜索014" junit="false" annotations="JDK">
+    <!--<test name="站内搜索014" junit="false" annotations="JDK">
         <parameter name="testName" value="站内搜索014"/>
         <classes>
             <class name="test.restAPITest"/>
         </classes>
-    </test>
+    </test>-->
     <test name="站内搜索015" junit="false" annotations="JDK">
         <parameter name="testName" value="站内搜索015"/>
         <classes>
