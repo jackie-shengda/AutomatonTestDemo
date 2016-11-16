@@ -53,7 +53,7 @@ public class Report implements IReporter{
     
     	  try {
     		  ResultSet rst=null;
-    		  PreparedStatement prest = (PreparedStatement) conn.prepareStatement("select BatchNo from test_log where ProjectName='"+GlobalSettings.projectName+GlobalSettings.bort+"' and ModuleName ='"+list.get(0).getMethod().getXmlTest().getSuite().getName()+"' and EndTime>'"+strToday+"' order by EndTime desc");
+    		  PreparedStatement prest = (PreparedStatement) conn.prepareStatement("select batch_no from test_log where project_name='"+GlobalSettings.projectName+GlobalSettings.bort+"' and module_name ='"+list.get(0).getMethod().getXmlTest().getSuite().getName()+"' and end_time>'"+strToday+"' order by end_time desc");
     		  rst=prest.executeQuery();
     		  if(rst.wasNull()){
     			  strBatchNo=strToday+"_1"; 
@@ -61,7 +61,7 @@ public class Report implements IReporter{
     			  String lastBatch="";
     			  String blfg="false";
 	    		  while(rst.next()){
-	    			  lastBatch=rst.getString("BatchNo");
+	    			  lastBatch=rst.getString("batch_no");
 	    			  blfg="true";
 	    			  break;
 	    		  }
@@ -105,7 +105,7 @@ public class Report implements IReporter{
             Connection conn=getConn();
             
             	String strInsert="";
-            	strInsert="insert into test_log(ProjectName,ModuleName,TestName,BeginTime,EndTime,LastTime,Status,Description,BatchNo) values(?,?,?,?,?,?,?,?,?)";
+            	strInsert="insert into test_log(project_name,module_name,test_name,begin_time,end_time,last_time,status,description,batch_no) values(?,?,?,?,?,?,?,?,?)";
             	 
                 try {          
                       PreparedStatement prest = (PreparedStatement) conn.prepareStatement(strInsert);          
